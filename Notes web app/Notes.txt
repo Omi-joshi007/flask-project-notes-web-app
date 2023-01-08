@@ -1,0 +1,6 @@
+<!-- Script written below is for to use custom Javascript file which can be craeted in static folder -->>
+      <!-- url_for is python function to load index.js file from static folder-->>
+{% comment %} <!-- Above is Jinja syntax which uses python to write in HTML -->>
+    <!-- We can use python inside {{ }} syntax used in Jinja-->> {% endcomment %}
+
+<!--- extends used for over writing blocks which we used in base.html file-->>
